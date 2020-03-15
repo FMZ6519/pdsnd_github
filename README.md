@@ -5,7 +5,7 @@
 Udacity Project 3
 
 ### Description
-Describe what your project is about and what it does
+Learing how to use GitHub with Udacity
 
 ### Files used
 Include the files used

@@ -40,7 +40,7 @@ def get_filters():
     while True:
         day = input("Please enter a specific day: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday or all: ").lower()
         if day not in DAY_DATA:
-            print("Please only enter a day like discribed. Check your spelling.")
+            print("Please only enter a day like discribed. Check your spelling. This is for Project 3.")
             continue
         else:
             break

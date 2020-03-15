@@ -31,7 +31,7 @@ def get_filters():
     while True:
         month = input("Please enter a specific month: January, February, March, April, May, June or all: ").lower()
         if month not in MONTH_DATA:
-            print("Please only enter a month like discribed. Check your spelling.")
+            print("Please only enter a month like discribed. Check your spelling. This is for Project 3.")
             continue
         else:
             break
